@@ -2,4 +2,4 @@
 
 ## 0.1.0.0 -- 2024--12--17
 
-* First version. Released on an unsuspecting world.
+Currently working on Towers of Hanoi exercise.
